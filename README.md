@@ -1,3 +1,7 @@
+# React-Redux Bare Minimum Scaffold Including Bootstrap and Hot-Reloading
+This project was created from my ExpressReactRedux Scaffold. This would be handy if you don't require a backend. This project was largely created with the create-react-app module from FaceBook. See below ...
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
